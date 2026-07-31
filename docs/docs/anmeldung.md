@@ -1,8 +1,8 @@
 ---
-
 layout: default
 title: Anmeldung
-----------------
+permalink: /anmeldung/
+---
 
 <div class="form-page">
 
