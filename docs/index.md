@@ -1,48 +1,111 @@
 ---
+
 layout: default
 title: Home
----
+-----------
 
+<div class="hero">
 
-# 🕵️ Hide & Seek
+  <div class="hero-eyebrow">DISCORD EDITION</div>
 
-## Discord Edition
+  <h1>🕵️ HIDE & SEEK</h1>
 
-Willkommen zu unserem Hide & Seek!
+  <p class="hero-subtitle">
+    Ein gemeinsames Hide-&-Seek-Abenteuer.
+  </p>
 
-Hier findest du alle wichtigen Informationen zum Spiel.
+  <div class="game-status">
+    🟡 VORBEREITUNG
+  </div>
 
----
+</div>
 
 ## 🎮 Das Spiel
 
-**Teilnehmer:** 10–15 Personen
-**Datum:** Wird noch bekannt gegeben
-**Treffpunkt:** Wird noch bekannt gegeben
-**Spieldauer:** Wird noch bekannt gegeben
+<div class="info-grid">
 
----
+  <div class="info-card">
+    <div class="info-icon">👥</div>
+    <div class="info-label">SPIELER</div>
+    <div class="info-value">10–15</div>
+  </div>
 
-## 📚 Informationen
+  <div class="info-card">
+    <div class="info-icon">📅</div>
+    <div class="info-label">DATUM</div>
+    <div class="info-value">TBD</div>
+  </div>
 
-* 📜 [Spielregeln](regeln.md)
-* 🗺️ [Spielgebiet](spielgebiet.md)
-* 🎯 [Challenges](challenges.md)
-* 📊 [Spielstand](spielstand.md)
-* 👥 [Teilnehmer](teilnehmer.md)
-* 📅 [Termine](termine.md)
-* ❓ [FAQ](faq.md)
+  <div class="info-card">
+    <div class="info-icon">📍</div>
+    <div class="info-label">SPIELGEBIET</div>
+    <div class="info-value">TBD</div>
+  </div>
 
----
+  <div class="info-card">
+    <div class="info-icon">⏱️</div>
+    <div class="info-label">DAUER</div>
+    <div class="info-value">TBD</div>
+  </div>
+
+</div>
+
+## 📚 Spielzentrale
+
+<div class="card-grid">
+
+  <a class="game-card" href="{{ '/regeln' | relative_url }}">
+    <span class="game-card-icon">📜</span>
+    <strong>Regeln</strong>
+    <span>Alle Spielregeln</span>
+  </a>
+
+  <a class="game-card" href="{{ '/spielgebiet' | relative_url }}">
+    <span class="game-card-icon">🗺️</span>
+    <strong>Spielgebiet</strong>
+    <span>Karte & Grenzen</span>
+  </a>
+
+  <a class="game-card" href="{{ '/challenges' | relative_url }}">
+    <span class="game-card-icon">🎯</span>
+    <strong>Challenges</strong>
+    <span>Aufgaben & Punkte</span>
+  </a>
+
+  <a class="game-card" href="{{ '/spielstand' | relative_url }}">
+    <span class="game-card-icon">📊</span>
+    <strong>Spielstand</strong>
+    <span>Punkte & Status</span>
+  </a>
+
+  <a class="game-card" href="{{ '/teilnehmer' | relative_url }}">
+    <span class="game-card-icon">👥</span>
+    <strong>Teilnehmer</strong>
+    <span>Wer spielt mit?</span>
+  </a>
+
+  <a class="game-card" href="{{ '/termine' | relative_url }}">
+    <span class="game-card-icon">📅</span>
+    <strong>Termine</strong>
+    <span>Terminplanung</span>
+  </a>
+
+</div>
 
 ## 📢 Aktuelle Informationen
 
-> Hier werden wichtige Änderungen und Ankündigungen veröffentlicht.
+<div class="announcement">
 
----
+**🟢 Vorbereitung läuft**
+
+Die Spielinformationen werden nach und nach ergänzt.
+
+Schaut regelmäßig hier vorbei und achtet auf wichtige Ankündigungen im Discord.
+
+</div>
 
 ## 💬 Discord
 
-Die Kommunikation rund um das Spiel findet auf unserem Discord-Server statt.
+Die Website ist die zentrale Informationsquelle für das Spiel.
 
-**Bei Fragen oder Problemen schreibt einfach im entsprechenden Discord-Kanal.**
+Für Diskussionen, Fragen und kurzfristige Informationen nutzen wir Discord.
