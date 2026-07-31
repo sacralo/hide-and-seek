@@ -18,15 +18,14 @@
     <div class="info-icon">📍 GAME AREA</div>
     <div class="info-value">Ruhrgebiet (+ a few selected places along the Rhine & Wupper)</div>
   </div>
-
+<br>
   <div class="info-card">
     <div class="info-icon">📍 GAME SIZE</div>
     <div class="info-value">Medium</div>
   </div>
-
+<br>
   <div class="info-card">
-    <div class="info-icon">⏱️</div>
-    <div class="info-label">DURATION</div>
+    <div class="info-icon">⏱️ DURATION</div>
     <div class="info-value">TBD</div>
   </div>
 
