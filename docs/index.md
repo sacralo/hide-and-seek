@@ -2,12 +2,9 @@
 
   <h1>🕵️ RHEIN-RUHR-RUN: A HIDE & SEEK GAME</h1>
 
-  <p class="hero-subtitle">
-    Ein gemeinsames Hide-&-Seek-Abenteuer.
-  </p>
 
   <div class="game-status">
-    🟡 VORBEREITUNG
+    🟡 IN VORBEREITUNG
   </div>
 
 </div>
