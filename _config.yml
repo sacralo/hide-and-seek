@@ -1,6 +1,9 @@
 title: "Hide & Seek"
 description: "Discord Edition"
 
+url: "https://sacralo.github.io"
+baseurl: "/hide-and-seek"
+
 theme: jekyll-theme-cayman
 
 markdown: kramdown
