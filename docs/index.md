@@ -11,19 +11,22 @@
 
   <div class="info-card">
     <div class="info-icon">📅 DATE</div>
-    <div class="info-value">August 29 & 30</div>
+    <div class="info-value">August 29th & 30th 2026</div>
   </div>
 <br>
+
   <div class="info-card">
     <div class="info-icon">📍 GAME AREA</div>
-    <div class="info-value">Ruhrgebiet (+ a few selected places along the Rhine & Wupper)</div>
+    <div class="info-value">Ruhr area (+ a few selected places along the Rhine & Wupper)</div>
   </div>
 <br>
+
   <div class="info-card">
     <div class="info-icon">📍 GAME SIZE</div>
     <div class="info-value">Medium</div>
   </div>
 <br>
+
   <div class="info-card">
     <div class="info-icon">⏱️ DURATION</div>
     <div class="info-value">TBD</div>
