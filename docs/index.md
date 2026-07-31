@@ -1,9 +1,3 @@
----
-
-layout: default
-title: Home
------------
-
 <div class="hero">
 
   <h1>🕵️ RHEIN-RUHR-RUN: A HIDE & SEEK GAME</h1>
