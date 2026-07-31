@@ -4,11 +4,31 @@ title: Home
 ---
 
 <div class="hero">
-
   <h1>🕵️ RHEIN-RUHR-RUN: A HIDE & SEEK GAME</h1>
-
-
 </div>
+
+<!-- COUNTDOWN EINFÜGEN -->
+<div class="countdown-container" style="text-align: center; font-family: Arial, sans-serif; font-size: 1.5em; margin: 20px 0;">
+  <h3>⏳ Zeit bis zum Rhein-Ruhr-Run:</h3>
+  <div id="countdown" style="font-weight: bold; color: #2a6496;"></div>
+</div>
+
+<script>
+  const countdownDate = new Date("Aug 29, 2026 00:00:00").getTime();
+  const countdown = setInterval(() => {
+    const now = new Date().getTime();
+    const distance = countdownDate - now;
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    document.getElementById("countdown").innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+    if (distance < 0) {
+      clearInterval(countdown);
+      document.getElementById("countdown").innerHTML = "🎉 Das Event hat begonnen!";
+    }
+  }, 1000);
+</script>
 
 ## 🎮 Game Basics
 
