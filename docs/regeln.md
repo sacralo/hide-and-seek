@@ -1,3 +1,8 @@
+---
+layout: default
+title: Regeln
+---
+
 # 📜 Spielregeln
 
 ## 1. Grundprinzip
