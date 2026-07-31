@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <div class="hero">
 
   <h1>🕵️ RHEIN-RUHR-RUN: A HIDE & SEEK GAME</h1>
@@ -38,7 +43,7 @@
 
 <div class="card-grid">
 
-  <a class="game-card" href="regeln.md">
+  <a class="game-card" href="regeln">
     <span class="game-card-icon">📜</span>
     <strong>Regeln</strong>
     <span>Alle Spielregeln</span>
