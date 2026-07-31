@@ -5,25 +5,28 @@
 
 </div>
 
-## 🎮 The Game
+## 🎮 Game Basics
 
 <div class="info-grid">
 
   <div class="info-card">
-    <div class="info-icon">📅</div>
-    <div class="info-label">DATE</div>
+    <div class="info-icon">📅 DATE</div>
     <div class="info-value">August 29 & 30</div>
   </div>
 
   <div class="info-card">
-    <div class="info-icon">📍</div>
-    <div class="info-label">SPIELGEBIET</div>
-    <div class="info-value">TBD</div>
+    <div class="info-icon">📍 GAME AREA</div>
+    <div class="info-value">Ruhrgebiet (+ a few selected places along the Rhine & Wupper)</div>
+  </div>
+
+  <div class="info-card">
+    <div class="info-icon">📍 GAME SIZE</div>
+    <div class="info-value">Medium</div>
   </div>
 
   <div class="info-card">
     <div class="info-icon">⏱️</div>
-    <div class="info-label">DAUER</div>
+    <div class="info-label">DURATION</div>
     <div class="info-value">TBD</div>
   </div>
 
