@@ -13,7 +13,7 @@
     <div class="info-icon">📅 DATE</div>
     <div class="info-value">August 29 & 30</div>
   </div>
-
+<br>
   <div class="info-card">
     <div class="info-icon">📍 GAME AREA</div>
     <div class="info-value">Ruhrgebiet (+ a few selected places along the Rhine & Wupper)</div>
