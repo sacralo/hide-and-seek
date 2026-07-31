@@ -26,7 +26,7 @@
   L.marker([51.4556, 7.0116]).addTo(map)
     .bindPopup('Startpunkt Essen');
 </script>
-
+<br>
 Hier wird das offizielle Spielgebiet beschrieben.
 
 ### Grenzen
