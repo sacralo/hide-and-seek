@@ -8,9 +8,9 @@ title: Home
 </div>
 
 <!-- COUNTDOWN EINFÜGEN -->
-<div class="countdown-container" style="text-align: center; font-family: Arial, sans-serif; font-size: 1.5em; margin: 20px 0;">
-  <h3>⏳ Zeit bis zum Rhein-Ruhr-Run:</h3>
-  <div id="countdown" style="font-weight: bold; color: #2a6496;"></div>
+<div class="countdown-container" style="text-align: left; font-size: 1.1em; margin: 15px 0 25px 0; font-family: inherit;">
+  <h3 style="margin-bottom: 5px; font-size: 1.2em;">⏳ Time until Rhein-Ruhr-Run:</h3>
+  <div id="countdown" style="font-weight: bold; color: #2a6496; font-size: 1.1em;"></div>
 </div>
 
 <script>
@@ -25,7 +25,7 @@ title: Home
     document.getElementById("countdown").innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
     if (distance < 0) {
       clearInterval(countdown);
-      document.getElementById("countdown").innerHTML = "🎉 Das Event hat begonnen!";
+      document.getElementById("countdown").innerHTML = "🎉 The event has started!";
     }
   }, 1000);
 </script>
