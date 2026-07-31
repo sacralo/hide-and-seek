@@ -43,7 +43,7 @@ title: Home
 
 <div class="card-grid">
 
-  <a class="game-card" href="regeln">
+  <a class="game-card" href="regeln.md">
     <span class="game-card-icon">📜</span>
     <strong>Regeln</strong>
     <span>Alle Spielregeln</span>
