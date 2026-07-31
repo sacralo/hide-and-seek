@@ -34,7 +34,7 @@
 
 </div>
 
-## 📚 Spielzentrale
+## 📚 Game Hub
 
 <div class="card-grid">
 
@@ -43,6 +43,7 @@
     <strong>Regeln</strong>
     <span>Alle Spielregeln</span>
   </a>
+<br>
 
   <a class="game-card" href="{{ '/spielgebiet' | relative_url }}">
     <span class="game-card-icon">🗺️</span>
