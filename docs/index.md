@@ -38,7 +38,7 @@
 
 <div class="card-grid">
 
-  <a class="game-card" href="{{ '/regeln' | relative_url }}">
+  <<a class="game-card" href="regeln">
     <span class="game-card-icon">📜</span>
     <strong>Regeln</strong>
     <span>Alle Spielregeln</span>
