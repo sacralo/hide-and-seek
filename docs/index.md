@@ -3,26 +3,16 @@
   <h1>🕵️ RHEIN-RUHR-RUN: A HIDE & SEEK GAME</h1>
 
 
-  <div class="game-status">
-    🟡 IN VORBEREITUNG
-  </div>
-
 </div>
 
-## 🎮 Das Spiel
+## 🎮 The Game
 
 <div class="info-grid">
 
   <div class="info-card">
-    <div class="info-icon">👥</div>
-    <div class="info-label">SPIELER</div>
-    <div class="info-value">10–15</div>
-  </div>
-
-  <div class="info-card">
     <div class="info-icon">📅</div>
-    <div class="info-label">DATUM</div>
-    <div class="info-value">TBD</div>
+    <div class="info-label">DATE</div>
+    <div class="info-value">August 29 & 30</div>
   </div>
 
   <div class="info-card">
