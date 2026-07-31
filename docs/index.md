@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+
 # 🕵️ Hide & Seek
 
 ## Discord Edition
