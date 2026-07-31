@@ -600,3 +600,29 @@ footer {
   }
 
 }
+/* DISCORD BOX */
+
+.discord-box {
+
+  padding: 24px 26px;
+
+  margin-top: 25px;
+
+  background: var(--surface);
+
+  border: 1px solid var(--border);
+
+  border-radius: 12px;
+
+  color: var(--muted);
+
+  text-align: center;
+
+}
+
+
+.discord-box strong {
+
+  color: var(--text);
+
+}
