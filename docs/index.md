@@ -22,7 +22,7 @@
 <br>
 
   <div class="info-card">
-    <div class="info-icon">📍 GAME SIZE</div>
+    <div class="info-icon">📏 GAME SIZE</div>
     <div class="info-value">Medium</div>
   </div>
 <br>
