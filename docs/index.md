@@ -43,7 +43,7 @@ title: Home
 
 <div class="card-grid">
 
-  <a class="game-card" href="regeln.md">
+  <a class="game-card" href="{{ '/regeln' | relative_url }}">
     <span class="game-card-icon">📜</span>
     <strong>Regeln</strong>
     <span>Alle Spielregeln</span>
@@ -56,29 +56,19 @@ title: Home
     <span>Karte & Grenzen</span>
   </a>
 
-  <a class="game-card" href="{{ '/challenges' | relative_url }}">
-    <span class="game-card-icon">🎯</span>
-    <strong>Challenges</strong>
-    <span>Aufgaben & Punkte</span>
-  </a>
 
-  <a class="game-card" href="{{ '/spielstand' | relative_url }}">
-    <span class="game-card-icon">📊</span>
-    <strong>Spielstand</strong>
-    <span>Punkte & Status</span>
-  </a>
-
-  <a class="game-card" href="{{ '/teilnehmer' | relative_url }}">
+  <a class="game-card" href="{{ '/teilnehmende' | relative_url }}">
     <span class="game-card-icon">👥</span>
     <strong>Teilnehmer</strong>
     <span>Wer spielt mit?</span>
   </a>
 
-  <a class="game-card" href="{{ '/termine' | relative_url }}">
-    <span class="game-card-icon">📅</span>
-    <strong>Termine</strong>
-    <span>Terminplanung</span>
+  <a class="game-card" href="{{ '/anmeldung' | relative_url }}">
+    <span class="game-card-icon">👥</span>
+    <strong>Bla</strong>
+    <span>Wer spielt mit?</span>
   </a>
+
 
 </div>
 
