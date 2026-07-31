@@ -6,9 +6,7 @@ title: Home
 
 <div class="hero">
 
-  <div class="hero-eyebrow">DISCORD EDITION</div>
-
-  <h1>🕵️ HIDE & SEEK</h1>
+  <h1>🕵️ RHEIN-RUHR-RUN: A HIDE & SEEK GAME</h1>
 
   <p class="hero-subtitle">
     Ein gemeinsames Hide-&-Seek-Abenteuer.
